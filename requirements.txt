@@ -1,6 +1,6 @@
 langchain
 streamlit
 requests
-opeanai
+openai
 qdrant-client
 tiktoken
